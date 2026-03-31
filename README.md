@@ -28,7 +28,7 @@ MIT
 * for PXT/microbit
 
 ```package
-biped=github:unitytech2017/rb
+LivsBot=github:unitytech2017/rb
 ```
 
 ## 오류 문의
