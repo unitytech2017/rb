@@ -1,7 +1,7 @@
 {
-    "name": "biped",
+    "name": "LivsBot",
     "version": "0.1.0",
-    "description": "4DOF 2족보행 로봇 확장 블록 (Robotbit PCA9685 기반)",
+    "description": "4DOF 2족보행 로봇 확장 블록 (PCA9685 기반)",
     "license": "MIT",
     "dependencies": {
         "core": "*"
