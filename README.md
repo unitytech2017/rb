@@ -1,4 +1,4 @@
-# biped
+# LivsBot
 
 4DOF 2족보행 로봇 확장 블록 (micro:bit + Robotbit)
 
@@ -31,5 +31,5 @@ MIT
 biped=github:unitytech2017/rb
 ```
 
-##오류 문의
-여의도중 김가현(claude@snu.ac.kr)
+## 오류 문의
+여의도중학교 김가현(claude@snu.ac.kr)
