@@ -11,7 +11,7 @@
 
 //% color="#7B68EE" weight=10 icon="\uf544"
 //% groups='["초기화", "관절 제어", "동작 프리미티브", "보행 패턴"]'
-namespace biped {
+namespace LivsBot {
 
     // ── PCA9685 하드웨어 제어 ──
 
