@@ -43,7 +43,7 @@ Robotbit 확장보드의 PCA9685 서보 드라이버를 활용하여 4개 서보
 MakeCode 편집기에서 **확장** → URL 입력:
 
 ```
-https://github.com/unitytech2017/pxt-biped
+https://github.com/unitytech2017/rb
 ```
 
 ## 라이선스
@@ -55,7 +55,7 @@ MIT
 * for PXT/microbit
 
 ```package
-biped=github:unitytech2017/pxt-biped
+biped=github:unitytech2017/rb
 ```
 
 ## 문의
